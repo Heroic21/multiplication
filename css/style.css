@@ -1,0 +1,79 @@
+@import 'reset.css';
+
+.tableau1 {border: 2px solid black;
+        width: 150px;  
+        height: 230px;
+        font-size: 20px;
+        text-align: center;
+        }
+
+ul.tableau1 {padding-top: 10px;}
+
+.header{height: 100px;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        background-color: #00695c;
+        
+}
+
+.bobby{ 
+        background-color: #00e676;
+        justify-content: center;
+        align-items: center;
+
+        
+}
+
+
+
+.titre1{
+        font-size: 80px;
+        color: #ffffff;
+}
+
+.part1 {display: flex;
+        justify-content: space-around;}
+
+.part2 {display: flex;
+        justify-content: space-around;}
+
+.part3 {display: flex;
+        justify-content: space-around;}
+
+.ex1{
+        width: 700px;
+        height: 500px;
+        background-color: #66bb6a;
+        display: flex; 
+        justify-content: center;
+        margin-top: 50px;
+        margin-right: 0;
+        align-items: center;
+
+}
+
+.ex2{
+        display: flex;
+        width: 700px;
+        height: 500px;
+        background-color: #66bb6a;
+        margin-top: 50px;
+}
+
+.ex3{
+        display: flex;
+        width: 700px;
+        height: 500px;
+        background-color: #66bb6a;;
+        margin-top: 50px;
+}
+
+.ex4{
+        display: flex;
+        width: 700px;
+        height: 500px;
+        background-color: #66bb6a;
+        margin-top: 50px;
+}
